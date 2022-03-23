@@ -1,0 +1,4 @@
+Tampilan Register:
+- nama
+- password
+- submit
