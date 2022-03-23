@@ -2,3 +2,4 @@ Tampilan Register:
 - nama
 - password
 - submit
+ selesai
